@@ -130,7 +130,7 @@ function App() {
         </div>
         {/* End of row 2 */}
       </div>
-      <img src={pic2} style={{ width: "75%" }} alt="Calm Sky and Water" />
+    
     </div>
   );
 }
